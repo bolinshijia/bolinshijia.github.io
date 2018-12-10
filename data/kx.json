@@ -1,0 +1,140 @@
+{
+	"data":{
+		"name":"烤箱",
+		"data": {
+			"HB534ABR0W":{
+				"name": "iQ300 西门子iQ300系列嵌入式烤箱",
+				"id": "HB534ABR0W",
+				"type": "烤箱",
+				"img": [
+					"./images/xmzdq/kx/HB534ABR0W_1.jpg",
+					"./images/xmzdq/kx/HB534ABR0W_2.jpg",
+					"./images/xmzdq/kx/HB534ABR0W_3.jpg",
+					"./images/xmzdq/kx/HB534ABR0W_4.jpg",
+					"./images/xmzdq/kx/HB534ABR0W_5.jpg"
+				],
+				"text":"",
+				"value":"kx",
+				"price": "7790",
+				"basicInfo":[
+					{"name":"品牌","value":"西门子"},
+					{"name":"产品型号","value":"HB534ABR0W"},
+					{"name":"产品类别","value":"烤箱"},
+					{"name":"型号系列","value":"iQ300"},
+					{"name":"可用容积(2010/30/EC)","value":"71 升"},
+					{"name":"烹饪方法","value":"Heißluft sanft, 常规制热, 底部加热, 匹萨模式, 全宽烤架, 热风, 热风烧烤"},
+					{"name":"欧洲商品条码","value":"4,242,003,802,847"},
+					{"name":"控制面板材质","value":"玻璃"},
+					{"name":"控制安装设备类型 - 烘箱1","value":"旋钮, 圆形"},
+					{"name":"灶具类型","value":"电磁灶"},
+					{"name":"面板颜色/材质","value":"不锈钢"},
+					{"name":"机门材质","value":"玻璃"},
+					{"name":"宽度","value":"594 毫米"},
+					{"name":"高度(毫米)","value":"595 毫米"},
+					{"name":"内腔宽度 (厘米)","value":"48.0 厘米"},
+					{"name":"内腔高度 (厘米)","value":"35.7 厘米"},
+					{"name":"内腔厚度 (厘米)","value":"41.5 厘米"},
+					{"name":"外形尺寸（高x宽x深）","value":"595 x 594 x 548 毫米"},
+					{"name":"开孔宽度","value":"560 毫米"},
+					{"name":"开孔高度 (毫米)","value":"585 毫米"},
+					{"name":"开孔厚度","value":"550 毫米"},
+					{"name":"开门后的厚度 (毫米)","value":"1,040 毫米"},
+					{"name":"净重 (公斤)","value":"34.050 公斤"}
+				],
+				"installInfo": [
+					{"name":"安装类型","value":"嵌入式"},
+					{"name":"产品类型","value":"半嵌式"},
+					{"name":"门铰链位置","value":"底部"}
+				]
+			},
+			"HB556GES0W":{
+				"name": "iQ500 西门子iQ500系列嵌入式烤箱",
+				"id": "HB556GES0W",
+				"type": "烤箱",
+				"img": [
+					"./images/xmzdq/kx/HB556GES0W_1.jpg",
+					"./images/xmzdq/kx/HB556GES0W_2.jpg",
+					"./images/xmzdq/kx/HB556GES0W_3.jpg",
+					"./images/xmzdq/kx/HB556GES0W_4.jpg"
+				],
+				"text":"",
+				"value":"kx",
+				"price": "",
+				"basicInfo":[
+					{"name":"品牌","value":"西门子"},
+					{"name":"产品型号","value":"HB556GES0W"},
+					{"name":"产品类别","value":"烤箱"},
+					{"name":"型号系列","value":"iQ500"},
+					{"name":"可用容积(2010/30/EC)","value":"71 升"},
+					{"name":"烹饪方法","value":"Heißluft sanft, 常规制热, 底部加热, 匹萨模式, 全宽烤架, 热风, 热风烧烤"},
+					{"name":"欧洲商品条码","value":"4,242,003,802,861"},
+					{"name":"控制面板材质","value":"玻璃"},
+					{"name":"控制安装设备类型 - 烘箱1","value":"旋钮, 圆形, 指示旋钮"},
+					{"name":"灶具类型","value":"电磁灶"},
+					{"name":"面板颜色/材质","value":"不锈钢"},
+					{"name":"机门材质","value":"玻璃"},
+					{"name":"宽度","value":"594 毫米"},
+					{"name":"高度(毫米)","value":"595 毫米"},
+					{"name":"内腔宽度 (厘米)","value":"48.0 厘米"},
+					{"name":"内腔高度 (厘米)","value":"35.7 厘米"},
+					{"name":"内腔厚度 (厘米)","value":"41.5 厘米"},
+					{"name":"外形尺寸（高x宽x深）","value":"595 x 594 x 548 毫米"},
+					{"name":"开孔宽度","value":"560 毫米"},
+					{"name":"开孔高度 (毫米)","value":"585 毫米"},
+					{"name":"开孔厚度","value":"550 毫米"},
+					{"name":"开门后的厚度 (毫米)","value":"1,040 毫米"},
+					{"name":"净重 (公斤)","value":"34.255 公斤"}
+				],
+				"installInfo": [
+					{"name":"安装类型","value":"嵌入式"},
+					{"name":"产品类型","value":"半嵌式"},
+					{"name":"门铰链位置","value":"底部, 阻尼"}
+				]
+			},
+			"HB558GZS0W":{
+				"name": "iQ500 西门子iQ500系列嵌入式烤箱",
+				"id": "HB558GZS0W",
+				"type": "烤箱",
+				"img": [
+					"./images/xmzdq/kx/HB558GZS0W_1.jpg",
+					"./images/xmzdq/kx/HB558GZS0W_2.jpg",
+					"./images/xmzdq/kx/HB558GZS0W_3.jpg",
+					"./images/xmzdq/kx/HB558GZS0W_4.jpg"
+				],
+				"text":"",
+				"value":"kx",
+				"price": "7790",
+				"basicInfo":[
+					{"name":"品牌","value":"西门子"},
+					{"name":"产品型号","value":"HB558GZS0W"},
+					{"name":"产品类别","value":"烤箱"},
+					{"name":"型号系列","value":"iQ500"},
+					{"name":"可用容积(2010/30/EC)","value":"71 升"},
+					{"name":"烹饪方法","value":"Heißluft sanft, 常规制热, 低温烹饪, 底部加热, 匹萨模式, 全宽烤架, 热风, 热风烧烤"},
+					{"name":"欧洲商品条码","value":"4,242,003,806,654"},
+					{"name":"控制面板材质","value":"玻璃"},
+					{"name":"控制安装设备类型 - 烘箱1","value":"旋钮, 圆形, 指示旋钮"},
+					{"name":"灶具类型","value":"电磁灶"},
+					{"name":"面板颜色/材质","value":"不锈钢"},
+					{"name":"机门材质","value":"玻璃"},
+					{"name":"宽度","value":"594 毫米"},
+					{"name":"高度(毫米)","value":"595 毫米"},
+					{"name":"内腔宽度 (厘米)","value":"48.0 厘米"},
+					{"name":"内腔高度 (厘米)","value":"35.7 厘米"},
+					{"name":"内腔厚度 (厘米)","value":"41.5 厘米"},
+					{"name":"外形尺寸（高x宽x深）","value":"595 x 594 x 548 毫米"},
+					{"name":"开孔宽度","value":"560 毫米"},
+					{"name":"开孔高度 (毫米)","value":"585 毫米"},
+					{"name":"开孔厚度","value":"550 毫米"},
+					{"name":"开门后的厚度 (毫米)","value":"1,040 毫米"},
+					{"name":"净重 (公斤)","value":"34.275 公斤"}
+				],
+				"installInfo": [
+					{"name":"安装类型","value":"嵌入式"},
+					{"name":"产品类型","value":"半嵌式"},
+					{"name":"门铰链位置","value":"底部, 阻尼"}
+				]
+			}
+		}	
+	}
+}

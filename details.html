@@ -8,7 +8,7 @@
     <meta content="telephone=no" name="format-detection"/>
     <!-- 删除默认的苹果工具栏和菜单栏 -->
     <meta content="yes" name="apple-mobile-web-app-capable"/>
-    <title>西门子家电</title>
+    <title>柏林世家</title>
     <!-- 静态资源引入 -->
     <link rel="stylesheet" type="text/css" href="css/reset.css">
     <link rel="stylesheet" type="text/css" href="css/common.css">
@@ -19,10 +19,12 @@
 </head>
 <body>
     <!-- nav部分 -->
-
+    <div class="back-box">
+        <span class="click-back" onclick="window.history.back()"></span>
+    </div>
     <div id="content" class="content">
         <div class="msg-box">
-            <div class="swiper-container">
+            <!-- <div class="swiper-container">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide"><img class="xq-img" src="images/xq1.jpg" data-id="0" alt=""></div>
                     <div class="swiper-slide"><img class="xq-img" src="images/xq2.jpg" data-id="1" alt=""></div>
@@ -30,60 +32,17 @@
                     <div class="swiper-slide"><img class="xq-img" src="images/xq4.jpg" data-id="3" alt=""></div>
                     <div class="swiper-slide"><img class="xq-img" src="images/xq5.jpg" data-id="4" alt=""></div>
                 </div>
-                <!-- 如果需要分页器 -->
+                如果需要分页器
                 <div class="swiper-pagination"></div>
             </div>
             <div class="msg-content">
+                <div class="msg-price">
+                    <p class="price">￥ 5000</p>
+                </div>
                 <div class="msg-name">
                     <p>iQ500 西门子洗衣机(WM14U560LW)</p>
                 </div>
-                <p class="msg-text">总有很多条条框框，束缚我们绽放精彩的渴望,想要活出颜色，又惧怕失去本色。还好有西门子iQ500系列洗衣机，洁净在握，自然随心而活。深谙您对洁净的完美追求，我们将革新式的操控体验融入尖端科技，为尽情生活开启无尽可能。西门子iQ500系列洗衣机，搭载iSensoric智感系统，有效去除顽固污渍，洁净衣物靓丽如新。全触控超大面板，人机互动自在随心。创新的智慧科技，贴心的人性设计，更于细节之处倍享安心。想要出彩？就趁现在!</p>
-                <ul class="msg-oul">
-                    <li><i class="weui-icon-success-no-circle"></i>iSensoric智感科技，智能除渍。</li>
-                    <li><i class="weui-icon-success-no-circle"></i>全屏触控，岂止于科技。</li>
-                    <li><i class="weui-icon-success-no-circle"></i>人机交互，如此简单。</li>
-                    <li><i class="weui-icon-success-no-circle"></i>洗涤时间，随心掌控。</li>
-                </ul>
-
-                <ul class="introduce-text">
-                    <li>
-                        <p class="introduce-title">iSensoric智感科技，智能除渍。</p>
-                        <p class="introduce-des">浓情蜜意少不了杯盏相向，从此，美酒不慎洒落衣襟也能收放自如</p>
-                        <p class="introduce-des">精致妆容是职场必修，从此，再也不用担心妆渍为形象减分</p>
-                        <p class="introduce-des">亲友聚餐总想尽情尽兴，从此，终于可以无视油渍放怀饕餮</p>
-                        <p class="introduce-des">新鲜水果自然美味多汁，从此，即使汁水四溅也不会气急败坏</p>
-                    </li>
-                    <li>
-                        <p class="introduce-title">高精全触控面板，感触非凡</p>
-                        <p class="introduce-des">全触控操作界面</p>
-                        <p class="introduce-des">超大LED显示屏</p>
-                        <p class="introduce-des">立体式人机交互体验</p>
-                    </li>
-                    <li>
-                        <p class="introduce-title">洗涤时间，随心掌控。</p>
-                        <p class="introduce-des">myTime随心控时，多档位洗涤时间选择，时间更细分，调节更灵活</p>
-                    </li>
-                    <li>
-                        <p class="introduce-title">精控进水，高效节能</p>
-                        <p class="introduce-des">智能检测感应衣量，并在洗涤过程中精确测量水量与筒内水压，适量注水，运行更高效，节水更护衣</p>
-                    </li>
-                    <li>
-                        <p class="introduce-title">变速节能技术 - BLDC无刷电机，核心动力</p>
-                        <p class="introduce-des">加速洗功能，提高转停比，缩短洗涤时间</p>
-                        <p class="introduce-des">节能洗功能，降低转停比，节约电能消耗</p>
-                    </li>
-                    <li>
-                        <p class="introduce-title">个性化洗涤程序 - 专业呵护，轻松洗衣</p>
-                        <p class="introduce-des">快洗15' - 快速洗涤，适合洗涤夏装/健身装/泳装</p>
-                        <p class="introduce-des">羽绒服 - 适合可以水洗的冬季保暖衣物</p>
-                        <p class="introduce-des">筒清洁 - 高温除菌，清洁滚筒专用</p>
-                        <p class="introduce-des">衬衫 - 轻柔洗涤，适合洗涤各类衬衫</p>
-                        <p class="introduce-des">混合 - 同时洗涤棉织物/化纤织物</p>
-                        <p class="introduce-des">防过敏-无需使用任何化学手段，而可以最大程度的解决衣物洗涤液残留</p>
-                        <p class="introduce-des">筒清洁提示-智能感知筒内脏污程度，自动提示筒清洁操作</p>
-                    </li>
-                </ul>
-
+                
                 <ul class="table-list">
                     <li>
                         <p class="table-name">基本信息</p>
@@ -191,7 +150,7 @@
                                     <td>型号系列</td>
                                     <td>iQ500</td>
                                 </tr>
-
+            
                                 <tr>
                                     <td>最高脱水转速（转/分钟）</td>
                                     <td>1,400 转/分钟</td>
@@ -208,7 +167,7 @@
                                     <td>快洗15'</td>
                                     <td>是</td>
                                 </tr>
-
+            
                             </tbody>
                         </table>
                     </li>
@@ -252,7 +211,7 @@
                         </table>
                     </li>
                 </ul>
-
+            
                 <div class="imgs-list">
                     <img src="images/xq1.jpg" class="xq-img" data-id="0" alt="">
                     <img src="images/xq2.jpg" class="xq-img" data-id="1" alt="">
@@ -260,46 +219,122 @@
                     <img src="images/xq4.jpg" class="xq-img" data-id="3" alt="">
                     <img src="images/xq5.jpg" class="xq-img" data-id="4" alt="">
                 </div>
-            </div>
+            </div> -->
         </div>
-        
+        <div class="footer-text">
+            <p>店铺地址：毅德城2号交易广场2栋5-16号</p>
+            <p>电话：0753-3808080</p>
+        </div>
     </div>
 	
-	
+<script id="msg-temp" type="text/html">
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            {{each item.img img index}}
+            <div class="swiper-slide">
+                <img class="xq-img" src="{{img}}" data-id="0" alt="">
+            </div>
+            {{/each}}
+        </div>
+        <div class="swiper-pagination"></div>
+    </div>
+    <div class="msg-content">
+        <div class="msg-price">
+            <p class="price">￥{{item.price}}</p>
+        </div>
+        <div class="msg-name">
+            <p>{{item.name}}({{item.id}})</p>
+        </div>
+
+        <ul class="table-list">
+            <li>
+                <p class="table-name">基本信息</p>
+                <table>
+                    <tbody>
+                        {{each item.basicInfo basic index}}
+                        <tr>
+                            <td>{{basic.name}}</td>
+                            <td>{{basic.value}}</td>
+                        </tr>
+                        {{/each}}
+                    </tbody>
+                </table>
+            </li>
+            {{if item.installInfo}}
+            <li>
+                <p class="table-name">安装信息</p>
+                <table>
+                    <tbody>
+                        {{each item.installInfo install index}}
+                        <tr>
+                            <td>{{install.name}}</td>
+                            <td>{{install.value}}</td>
+                        </tr>
+                        {{/each}}
+                    </tbody>
+                </table>
+            </li>
+            {{/if}}
+        </ul>
+
+        <div class="imgs-list">
+            {{each item.img img index}}
+            <img src="{{img}}" class="xq-img" data-id="0" alt="">
+            {{/each}}
+        </div>
+    </div>
+</script>
 
 
 
 
 <script src="js/jquery-3.2.1.js"></script>
+<script src="js/client.js"></script>
 <script src="js/jquery-weui.min.js"></script>
 <script src="js/fastclick.min.js"></script>
 <script src="js/main.js"></script>
 <script src="js/swiper-4.3.5.min.js"></script>
+<script src="js/template-web.js"></script>
 <script type="text/javascript">
     var index = (function() {
         return {
+            type: main.queryString('type'),
+            id: main.queryString('id'),
             init: function() {
                 main.setFontSize()
                 this.bindEvt()
             },
             bindEvt: function(){
                 var _this = this;
-                var mySwiper = new Swiper('.swiper-container', {
-                    autoplay: {
-                        stopOnLastSlide: true,
-                        delay: 3000,
-                        disableOnInteraction: false, //用户操作是否会禁止autoplay
-                    },
-                    direction: 'horizontal', // 垂直切换选项
-                    loop: true, // 循环模式选项
-
-                    // 如果需要分页器
-                    pagination: {
-                      el: '.swiper-pagination',
-                    },
-                })
+                
                 //navtab点击切换
                 
+                var url = 'data/'+_this.type+'.json';
+                service.ajax(url, null, 
+                'GET', function (res) {
+                    console.log(res);
+                    var data = res.data.data[_this.id];
+                    console.log(data);
+                    var html = template('msg-temp', {
+                        "item": data
+                    });
+                    $('.msg-box').html(html);
+                    var mySwiper = new Swiper('.swiper-container', {
+                        autoplay: {
+                            stopOnLastSlide: true,
+                            delay: 3000,
+                            disableOnInteraction: false, //用户操作是否会禁止autoplay
+                        },
+                        direction: 'horizontal', // 垂直切换选项
+                        loop: true, // 循环模式选项
+
+                        // 如果需要分页器
+                        pagination: {
+                          el: '.swiper-pagination',
+                        },
+                    })
+                });
+
             },
         }
     })()

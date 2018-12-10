@@ -8,7 +8,7 @@
     <meta content="telephone=no" name="format-detection"/>
     <!-- 删除默认的苹果工具栏和菜单栏 -->
     <meta content="yes" name="apple-mobile-web-app-capable"/>
-    <title>西门子家电</title>
+    <title>柏林世家</title>
     <!-- 静态资源引入 -->
     <link rel="stylesheet" type="text/css" href="css/reset.css">
     <link rel="stylesheet" type="text/css" href="css/common.css">
@@ -19,50 +19,51 @@
 <body>
     <!-- nav部分 -->
     <div class="nav-bar">
-        <p class="nav-title ta-c">SIEMENS</p>
+        <p class="nav-title ta-c">BORLON</p>
     </div>
 
     <div id="content" class="content">
         <div class="list-box">
-        	<div class="item">
+        	<div class="item" data-id="blcg">
         		<div class="item-imgs">
-        			<img src="images/MCMI01.jpg" alt="">
+        			<img src="images/blcg.jpg" alt="">
         		</div>
         		<div class="item-msgs">
-        			<p class="msg-title">前卫设计</p>
-        			<p class="msg-text">西门子家电：融合先进材料、流畅线条和几何形状外形，形成了精致而清晰的设计语言。引领您走向充满无限可能的生活。</p>
+        			<p class="msg-title">柏林橱柜</p>
+        			<p class="msg-text">柏林橱柜配以精致门边、做工精致的把手、网格门设计，每一个细节都完美至臻、浑然天成，为整套橱柜注入更多灵动魅力。整体呈现出华丽尊贵、豪华大气。</p>
         		</div>
         	</div>
-        	<div class="item">
+        	<div class="item" data-id="blyg">
         		<div class="item-msgs">
-        			<p class="msg-title">创新科技</p>
-        			<p class="msg-text">突破性技术，改变你我家，简化日常生活，带来全新生活方式。西门子家电创新，立享未来。</p>
+        			<p class="msg-title">柏林衣柜</p>
+        			<p class="msg-text"></p>
         		</div>
         		<div class="item-imgs">
         			<img src="images/MCMI02.jpg" alt="">
         		</div>
         	</div>
-        	<div class="item">
+        	<div class="item" data-id="xmzdq">
         		<div class="item-imgs">
-        			<img src="images/MCMI04.jpg" alt="">
+        			<img src="images/xmzdq.jpg" alt="">
         		</div>
         		<div class="item-msgs">
-        			<p class="msg-title">家的故事</p>
-        			<p class="msg-text">体验生活空间魅力，感受前卫设计与现代、传统和高科技的碰撞。创新与设计的关系，在建筑大师的笔下被重新诠释。</p>
+        			<p class="msg-title">西门子电器</p>
+        			<p class="msg-text">西门子家电：融合先进材料、流畅线条和几何形状外形，形成了精致而清晰的设计语言。引领您走向充满无限可能的生活。</p>
         		</div>
         	</div>
-        	<div class="item">
+        	<div class="item" data-id="wjpj">
         		<div class="item-msgs">
-        			<p class="msg-title">家居互联</p>
-        			<p class="msg-text">使用家居互联功能，无论身处何时何地，都可通过家居互联APP进行远程操控，随时掌控家电状态。</p>
+        			<p class="msg-title">五金配件</p>
+        			<p class="msg-text"></p>
         		</div>
         		<div class="item-imgs">
-        			<img src="images/MCIM03.jpg" alt="">
+        			<img src="images/MCMI04.jpg" alt="">
         		</div>
         	</div>
         </div>
         <div class="footer-text">
-            <p>西门子家电</p>
+            <p>店铺地址：毅德城2号交易广场2栋5-16号</p>
+            <p>电话：0753-3808080</p>
         </div>
     </div>
 	
@@ -86,7 +87,9 @@
                 var _this = this;
                 //navtab点击切换
                 $('body').on('click','.item',function(){
-                    window.location.href = './list.html';
+                    var id = $(this).attr('data-id')
+                    if(id == 'blyg' || id == 'wjpj'){return;};
+                    window.location.href = './list.html?id='+id;
                 })
             },
         }

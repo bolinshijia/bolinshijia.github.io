@@ -1,0 +1,45 @@
+{
+	"data":{
+		"name":"蒸烤一体",
+		"data": {
+			"CS656GBS1W":{
+				"name": "iQ700 紧凑型蒸汽烤箱",
+				"id": "CS656GBS1W",
+				"type": "蒸烤一体",
+				"img": [
+					"./images/xmzdq/zkyt/CS656GBS1W_1.jpg",
+					"./images/xmzdq/zkyt/CS656GBS1W_2.jpg",
+					"./images/xmzdq/zkyt/CS656GBS1W_3.jpg",
+					"./images/xmzdq/zkyt/CS656GBS1W_4.jpg",
+					"./images/xmzdq/zkyt/CS656GBS1W_5.jpg",
+					"./images/xmzdq/zkyt/CS656GBS1W_6.jpg"
+				],
+				"text":"",
+				"value":"zkyt",
+				"price": "16890",
+				"basicInfo":[
+					{"name":"品牌","value":"西门子"},
+					{"name":"产品型号","value":"CS656GBS1W"},
+					{"name":"产品类别","value":"蒸汽烤箱, 蒸汽炉"},
+					{"name":"型号系列","value":"iQ700"},
+					{"name":"可用容积(2010/30/EC)","value":"47 升"},
+					{"name":"通风状态下的耗电量","value":"0.61 千瓦时"},
+					{"name":"烹饪方法","value":"Hot Air-Eco, 半宽烤架, 常规制热, 低温烹饪, 底部加热, 发酵, 加热, 解冻, 匹萨模式, 全部蒸汽, 全宽烤架, 热风烧烤, 预热, 重新加热"},
+					{"name":"随机附件","value":"1 x 蒸盘，有孔，尺寸 S, 1 x 蒸盘，有孔，尺寸 XL, 1 x 蒸盘，无孔，尺寸 S, 1 x 搁架, 1 x 通用烤盘"},
+					{"name":"欧洲商品条码","value":"4,242,003,671,436"},
+					{"name":"控制面板材质","value":"不锈钢"},
+					{"name":"灶具类型","value":"电磁灶"},
+					{"name":"面板颜色/材质","value":"不锈钢"},
+					{"name":"机门材质","value":"玻璃"},
+					{"name":"宽度","value":"595 毫米"},
+					{"name":"高度(毫米)","value":"455 毫米"},
+					{"name":"外形尺寸（高x宽x深）","value":"455 x 594 x 548 毫米, 455 x 595 x 548"},
+					{"name":"净重 (公斤)","value":"0.000 公斤"}
+				],
+				"installInfo": [
+					{"name":"安装类型","value":"嵌入式"}
+				]
+			}
+		}	
+	}
+}

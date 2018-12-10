@@ -74,7 +74,7 @@
   width: 2rem;
   text-align: center;
   background: url(../../images/back.png) no-repeat center center;
-  background-size: .6rem .85rem;
+  background-size: 1.5rem 1.2rem;
 }
 
 /*修改下头部tab选项卡样式*/
@@ -198,4 +198,17 @@
 }
 .footer a.tab-cur .tabbar-label {
     color: #57cde9;
+}
+
+.footer-text {
+  width: 100%;
+  margin-top: 1.5rem;
+  height: 3rem;
+  
+}
+.footer-text p {
+  text-align: center;
+  color: #0d8fef;
+  font-size: 0.7rem;
+  line-height: 1.2rem;
 }

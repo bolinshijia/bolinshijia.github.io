@@ -1,7 +1,7 @@
 var service = (function() {
     return {
         //环境变更
-        baseURL: "http://192.168.10.43:8088/whale", // 基础url
+        baseURL: "", // 基础url
         success: function(cb) {
             return function(res) {
                 cb && cb(res)

@@ -1,0 +1,313 @@
+{
+	"data":{
+		"name":"烟机",
+		"data": {
+			"LS68FK961W":{
+				"name": "iQ700 西门子劲风系列吸油烟机",
+				"id": "LS68FK961W",
+				"tyep": "侧吸烟机",
+				"img": [
+					"./images/xmzdq/yj/LS68FK961W_1.jpg",
+					"./images/xmzdq/yj/LS68FK961W_2.jpg",
+					"./images/xmzdq/yj/LS68FK961W_3.jpg",
+					"./images/xmzdq/yj/LS68FK961W_4.jpg",
+					"./images/xmzdq/yj/LS68FK961W_5.jpg"
+				],
+				"text":"",
+				"value":"yj",
+				"price": "7390",
+				"basicInfo":[
+					{"name":"品牌","value":"西门子"},
+					{"name":"产品型号","value":"LS68FK961W"},
+					{"name":"产品类型","value":"挂壁式"},
+					{"name":"边框设计","value":"侧吸式"},
+					{"name":"颜色","value":"黑色"},
+					{"name":"烟罩颜色","value":"不锈钢"},
+					{"name":"家居互联","value":"——"},
+					{"name":"机器深度(毫米)","value":"435毫米"},
+					{"name":"机身材质","value":"玻璃，不锈钢"},
+					{"name":"风量(立方米/分钟)","value":"19.0"},
+					{"name":"延迟关机功能","value":"3"}
+				],
+				"installInfo": [
+					{"name":"整机高度(上下)(毫米)","value":"800毫米"},
+					{"name":"产品宽度","value":"895毫米"},
+					{"name":"机器深度(毫米)","value":"435毫米"},
+					{"name":"与电灶/电磁灶的最小间距(毫米)","value":"350毫米"},
+					{"name":"与燃气灶的最小间距(毫米)","value":"400毫米"},
+					{"name":"电源插头类型","value":"中式插头"},
+					{"name":"电源线长度(厘米)","value":"150厘米"}
+				]
+			},
+			"LS67FA962W":{
+				"name": "iQ700 西门子劲风系列吸油烟机",
+				"id": "LS68FK961W",
+				"type": "侧吸烟机",
+				"img": [
+					"./images/xmzdq/yj/LS67FA962W_1.jpg",
+					"./images/xmzdq/yj/LS67FA962W_2.jpg",
+					"./images/xmzdq/yj/LS67FA962W_3.jpg",
+					"./images/xmzdq/yj/LS67FA962W_4.jpg"
+				],
+				"text":"",
+				"value":"yj",
+				"price": "6990",
+				"basicInfo":[
+					{"name":"品牌","value":"西门子"},
+					{"name":"产品型号","value":"LS67FA962W"},
+					{"name":"产品类型","value":"挂壁式"},
+					{"name":"边框设计","value":"侧吸式"},
+					{"name":"颜色","value":"不锈钢"},
+					{"name":"烟罩颜色","value":"不锈钢"},
+					{"name":"家居互联","value":"——"},
+					{"name":"机器深度(毫米)","value":"435毫米"},
+					{"name":"机身材质","value":"玻璃，不锈钢"},
+					{"name":"风量(立方米/分钟)","value":"18.5"}
+				],
+				"installInfo": [
+					{"name":"整机高度(上下)(毫米)","value":"800毫米"},
+					{"name":"产品宽度","value":"895毫米"},
+					{"name":"机器深度(毫米)","value":"435毫米"},
+					{"name":"与电灶/电磁灶的最小间距(毫米)","value":"350毫米"},
+					{"name":"与燃气灶的最小间距(毫米)","value":"400毫米"},
+					{"name":"电源插头类型","value":"中式插头"},
+					{"name":"电源线长度(厘米)","value":"150厘米"}
+				]
+			},
+			"LS66AA750W":{
+				"name": "iQ100 西门子侧吸式吸油烟机",
+				"id": "LS66AA750W",
+				"type": "侧吸烟机",
+				"img": [
+					"./images/xmzdq/yj/LS66AA750W_1.jpg",
+					"./images/xmzdq/yj/LS66AA750W_2.jpg",
+					"./images/xmzdq/yj/LS66AA750W_3.jpg"
+				],
+				"text":"",
+				"value":"yj",
+				"price": "3490",
+				"basicInfo":[
+					{"name":"品牌","value":"西门子"},
+					{"name":"产品型号","value":"LS66AA750W"},
+					{"name":"产品类型","value":"挂壁式"},
+					{"name":"边框设计","value":"侧吸式"},
+					{"name":"颜色","value":"黑色"},
+					{"name":"烟罩颜色","value":"不锈钢"},
+					{"name":"家居互联","value":"——"},
+					{"name":"机器深度(毫米)","value":"477毫米"},
+					{"name":"机身材质","value":"玻璃，不锈钢"},
+					{"name":"风量(立方米/分钟)","value":"15.0"}
+				],
+				"installInfo": [
+					{"name":"整机高度(上下)(毫米)","value":"800毫米"},
+					{"name":"产品宽度","value":"745 毫米"},
+					{"name":"机器深度(毫米)","value":"477 毫米"},
+					{"name":"与电灶/电磁灶的最小间距(毫米)","value":"350毫米"},
+					{"name":"与燃气灶的最小间距(毫米)","value":"400毫米"},
+					{"name":"电源插头类型","value":"中式插头"},
+					{"name":"电源线长度(厘米)","value":"150厘米"}
+				]
+			},
+			"LC45SK95EW":{
+				"name": "iQ500 西门子飓风系列吸油烟机",
+				"id": "LC45SK95EW",
+				"type": "欧式",
+				"img": ["./images/xmzdq/yj/LC45SK95EW_1.jpg"],
+				"text":"",
+				"value":"yj",
+				"price": "4990",
+				"basicInfo":[
+					{"name":"品牌","value":"西门子"},
+					{"name":"产品型号","value":"LC45SK95EW"},
+					{"name":"产品类型","value":"挂壁式"},
+					{"name":"边框设计","value":"超薄欧式 - 品牌专用设计"},
+					{"name":"颜色","value":"黑色"},
+					{"name":"烟罩颜色","value":"不锈钢"},
+					{"name":"家居互联","value":"——"},
+					{"name":"机器深度(毫米)","value":"530 毫米"},
+					{"name":"机身材质","value":"玻璃，不锈钢"},
+					{"name":"风量(立方米/分钟)","value":"18.0"},
+					{"name":"延迟关机功能","value":"3"}
+				],
+				"installInfo": [
+					{"name":"整机高度(上下)(毫米)","value":"635-855 毫米"},
+					{"name":"产品宽度","value":"895 毫米"},
+					{"name":"机器深度(毫米)","value":"530 毫米"},
+					{"name":"与电灶/电磁灶的最小间距(毫米)","value":"650 毫米"},
+					{"name":"与燃气灶的最小间距(毫米)","value":"750 毫米"},
+					{"name":"电源插头类型","value":"中式插头"},
+					{"name":"电源线长度(厘米)","value":"150厘米"}
+				]
+			},
+			"LC46AA955W":{
+				"name": "iQ300 西门子欧式吸油烟机",
+				"id": "LC46AA955W",
+				"type": "欧式",
+				"img": ["./images/xmzdq/yj/LC46AA955W_1.jpg"],
+				"text":"",
+				"value":"yj",
+				"price": "3990",
+				"basicInfo":[
+					{"name":"品牌","value":"西门子"},
+					{"name":"产品型号","value":"LC46AA955W"},
+					{"name":"产品类型","value":"挂壁式"},
+					{"name":"边框设计","value":"超薄欧式 - 品牌专用设计"},
+					{"name":"颜色","value":"不锈钢"},
+					{"name":"烟罩颜色","value":"金属银色"},
+					{"name":"家居互联","value":"——"},
+					{"name":"机器深度(毫米)","value":"530 毫米"},
+					{"name":"机身材质","value":"不锈钢"},
+					{"name":"风量(立方米/分钟)","value":"18.0"}
+				],
+				"installInfo": [
+					{"name":"整机高度(上下)(毫米)","value":"635-855 毫米"},
+					{"name":"产品宽度","value":"895 毫米"},
+					{"name":"机器深度(毫米)","value":"530 毫米"},
+					{"name":"与电灶/电磁灶的最小间距(毫米)","value":"650 毫米"},
+					{"name":"与燃气灶的最小间距(毫米)","value":"750 毫米"},
+					{"name":"电源插头类型","value":"中式插头"},
+					{"name":"电源线长度(厘米)","value":"150厘米"}
+				]
+			},
+			"LC48FK956W":{
+				"name": "iQ700 西门子飓风系列吸油烟机",
+				"id": "LC48FK956W",
+				"type": "欧式",
+				"img": [
+					"./images/xmzdq/yj/LC48FK956W_1.jpg",
+					"./images/xmzdq/yj/LC48FK956W_2.jpg",
+					"./images/xmzdq/yj/LC48FK956W_3.jpg",
+					"./images/xmzdq/yj/LC48FK956W_4.jpg"
+				],
+				"text":"",
+				"value":"yj",
+				"price": "7190",
+				"basicInfo":[
+					{"name":"品牌","value":"西门子"},
+					{"name":"产品型号","value":"LC48FK956W"},
+					{"name":"产品类型","value":"挂壁式"},
+					{"name":"边框设计","value":"欧式"},
+					{"name":"颜色","value":"黑色"},
+					{"name":"烟罩颜色","value":"不锈钢"},
+					{"name":"家居互联","value":"——"},
+					{"name":"机器深度(毫米)","value":"535 毫米"},
+					{"name":"机身材质","value":"玻璃, 不锈钢"},
+					{"name":"风量(立方米/分钟)","value":"20.0"},
+					{"name":"延迟关机功能","value":"3"}
+				],
+				"installInfo": [
+					{"name":"整机高度(上下)(毫米)","value":"635-855 毫米"},
+					{"name":"产品宽度","value":"895 毫米"},
+					{"name":"机器深度(毫米)","value":"535 毫米"},
+					{"name":"与电灶/电磁灶的最小间距(毫米)","value":"650 毫米"},
+					{"name":"与燃气灶的最小间距(毫米)","value":"750 毫米"},
+					{"name":"电源插头类型","value":"中式插头"},
+					{"name":"电源线长度(厘米)","value":"150厘米"}
+				]
+			},
+			"LC48FK957W":{
+				"name": "iQ700 西门子飓风系列吸油烟机",
+				"id": "LC48FK957W",
+				"type": "欧式",
+				"img": [
+					"./images/xmzdq/yj/LC48FK957W_1.jpg",
+					"./images/xmzdq/yj/LC48FK957W_2.jpg",
+					"./images/xmzdq/yj/LC48FK957W_3.jpg",
+					"./images/xmzdq/yj/LC48FK957W_4.jpg",
+					"./images/xmzdq/yj/LC48FK957W_5.jpg"
+				],
+				"text":"",
+				"value":"yj",
+				"price": "8090",
+				"basicInfo":[
+					{"name":"品牌","value":"西门子"},
+					{"name":"产品型号","value":"LC48FK957W"},
+					{"name":"产品类型","value":"挂壁式"},
+					{"name":"边框设计","value":"欧式"},
+					{"name":"颜色","value":"黑色"},
+					{"name":"烟罩颜色","value":"不锈钢"},
+					{"name":"家居互联","value":"——"},
+					{"name":"机器深度(毫米)","value":"535 毫米"},
+					{"name":"机身材质","value":"玻璃, 不锈钢"},
+					{"name":"风量(立方米/分钟)","value":"20.0"},
+					{"name":"延迟关机功能","value":"3"}
+				],
+				"installInfo": [
+					{"name":"整机高度(上下)(毫米)","value":"635-855 毫米"},
+					{"name":"产品宽度","value":"895 毫米"},
+					{"name":"机器深度(毫米)","value":"535 毫米"},
+					{"name":"与电灶/电磁灶的最小间距(毫米)","value":"650 毫米"},
+					{"name":"与燃气灶的最小间距(毫米)","value":"750 毫米"},
+					{"name":"电源插头类型","value":"中式插头"},
+					{"name":"电源线长度(厘米)","value":"150厘米"}
+				]
+			},
+			"LC41SA950W":{
+				"name": "iQ700 西门子飓风系列吸油烟机",
+				"id": "LC41SA950W",
+				"type": "欧式",
+				"img": [
+					"./images/xmzdq/yj/LC41SA950W_1.jpg"
+				],
+				"text":"",
+				"value":"yj",
+				"price": "4890",
+				"basicInfo":[
+					{"name":"品牌","value":"西门子"},
+					{"name":"产品型号","value":"LC41SA950W"},
+					{"name":"产品类型","value":"挂壁式"},
+					{"name":"边框设计","value":"欧式 - 品牌专用设计"},
+					{"name":"颜色","value":"不锈钢"},
+					{"name":"烟罩颜色","value":"不锈钢"},
+					{"name":"家居互联","value":"——"},
+					{"name":"机器深度(毫米)","value":"535 毫米"},
+					{"name":"机身材质","value":"玻璃, 不锈钢"},
+					{"name":"风量(立方米/分钟)","value":"18.0"},
+					{"name":"延迟关机功能","value":"15"}
+				],
+				"installInfo": [
+					{"name":"整机高度(上下)(毫米)","value":"635-855 毫米"},
+					{"name":"产品宽度","value":"895 毫米"},
+					{"name":"机器深度(毫米)","value":"535 毫米"},
+					{"name":"与电灶/电磁灶的最小间距(毫米)","value":"650 毫米"},
+					{"name":"与燃气灶的最小间距(毫米)","value":"750 毫米"},
+					{"name":"电源插头类型","value":"中式插头"},
+					{"name":"电源线长度(厘米)","value":"150厘米"}
+				]
+			},
+			"LC57SA951W":{
+				"name": "iQ700 西门子飓风系列吸油烟机",
+				"id": "LC57SA951W",
+				"type": "欧式",
+				"img": [
+					"./images/xmzdq/yj/LC57SA951W_1.jpg"
+				],
+				"text":"",
+				"value":"yj",
+				"price": "5690",
+				"basicInfo":[
+					{"name":"品牌","value":"西门子"},
+					{"name":"产品型号","value":"LC57SA951W"},
+					{"name":"产品类型","value":"挂壁式"},
+					{"name":"边框设计","value":"塔形"},
+					{"name":"颜色","value":"黑色"},
+					{"name":"烟罩颜色","value":"不锈钢"},
+					{"name":"家居互联","value":"——"},
+					{"name":"机器深度(毫米)","value":"535 毫米"},
+					{"name":"机身材质","value":"玻璃, 不锈钢"},
+					{"name":"风量(立方米/分钟)","value":"18.0"}
+				],
+				"installInfo": [
+					{"name":"整机高度(上下)(毫米)","value":"705-930 毫米"},
+					{"name":"产品宽度","value":"895 毫米"},
+					{"name":"机器深度(毫米)","value":"535 毫米"},
+					{"name":"与电灶/电磁灶的最小间距(毫米)","value":"650 毫米"},
+					{"name":"与燃气灶的最小间距(毫米)","value":"750 毫米"},
+					{"name":"电源插头类型","value":"中式插头"},
+					{"name":"电源线长度(厘米)","value":"150厘米"}
+				]
+			}
+		}
+		
+	}
+}

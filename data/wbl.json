@@ -1,0 +1,51 @@
+{
+	"data":{
+		"name":"微波炉",
+		"data": {
+			"BE525LMS0W":{
+				"name": "iQ500 西门子iQ100系列嵌入式微波炉",
+				"id": "BE525LMS0W",
+				"type": "微波炉",
+				"img": [
+					"./images/xmzdq/wbl/BE525LMS0W_1.jpg",
+					"./images/xmzdq/wbl/BE525LMS0W_2.jpg",
+					"./images/xmzdq/wbl/BE525LMS0W_3.jpg",
+					"./images/xmzdq/wbl/BE525LMS0W_4.jpg",
+					"./images/xmzdq/wbl/BE525LMS0W_5.jpg",
+					"./images/xmzdq/wbl/BE525LMS0W_6.jpg"
+				],
+				"text":"",
+				"value":"wbl",
+				"price": "3690",
+				"basicInfo":[
+					{"name":"品牌","value":"西门子"},
+					{"name":"产品型号","value":"BE525LMS0W"},
+					{"name":"产品类别","value":"微波炉"},
+					{"name":"家居互联","value":"——"},
+					{"name":"型号系列","value":"iQ500"},
+					{"name":"最大微波功率","value":"800 瓦"},
+					{"name":"控制方式","value":"电脑控温"},
+					{"name":"中国商品条码","value":"6925818495562"},
+					{"name":"容积(升)","value":"20 升"},
+					{"name":"外形尺寸（高x宽x深）","value":"382 x 594 x 317 毫米"},
+					{"name":"内腔尺寸 (毫米)","value":"201.0 x 308.0 x 282.0 毫米"},
+					{"name":"安装尺寸 (高x宽x厚)","value":"362-365 x 560-568 x 300 毫米"},
+					{"name":"宽度","value":"594 毫米"},
+					{"name":"高度(毫米)","value":"382 毫米"},
+					{"name":"转盘直径 (毫米)","value":"255 毫米"},
+					{"name":"净重 (公斤)","value":"16.211 公斤"},
+					{"name":"内腔材质","value":"不锈钢"},
+					{"name":"面板颜色/材质","value":"不锈钢"},
+					{"name":"观察窗材质","value":"玻璃"}
+				],
+				"installInfo": [
+					{"name":"安装类型","value":"嵌入式"},
+					{"name":"开门方式","value":"按钮"},
+					{"name":"烤架类型","value":"石英"},
+					{"name":"附加功能","value":"烧烤功能"},
+					{"name":"转盘","value":"√"}
+				]
+			}
+		}	
+	}
+}
