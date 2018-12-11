@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <!-- 视口 -->
+    <meta name="viewport" content="maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,initial-scale=1.0"/>
+    <!--禁止将页面中的一连串数字识别为电话号码、并设置为手机可以拨打的一个连接。 -->
+    <meta content="telephone=no" name="format-detection"/>
+    <!-- 删除默认的苹果工具栏和菜单栏 -->
+    <meta content="yes" name="apple-mobile-web-app-capable"/>
+    <title>柏林世家</title>
+    <!-- 静态资源引入 -->
+    <link rel="stylesheet" type="text/css" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" href="css/common.css">
+    <link rel="stylesheet" href="css/jquery-weui.min.css">
+    <link rel="stylesheet" href="css/weui.min.css">
+    <link rel="stylesheet" type="text/css" href="css/pages/blcg.css">
+
+</head>
+<body>
+    <!-- nav部分 -->
+    <div class="nav-bar">
+        <span class="click-back" onclick="window.history.back()"></span>
+        <p class="nav-title ta-c">柏林橱柜</p>
+    </div>
+    <div id="content" class="content">
+        <div class="msg-box">
+            <div class="msg-content">
+                <div class="msg-name">
+                    <p class="name">柏林橱柜</p>
+                </div>
+                <div class="imgs-list">
+                    <!-- <img src="images/xq1.jpg" class="xq-img" data-id="0" alt="">
+                    <img src="images/xq2.jpg" class="xq-img" data-id="1" alt="">
+                    <img src="images/xq3.jpg" class="xq-img" data-id="2" alt="">
+                    <img src="images/xq4.jpg" class="xq-img" data-id="3" alt="">
+                    <img src="images/xq5.jpg" class="xq-img" data-id="4" alt=""> -->
+                </div>
+            </div>
+        </div>
+        <div class="footer-text">
+            <p>店铺地址：毅德城2号交易广场2栋5-16号</p>
+            <p>电话：0753-3808080</p>
+        </div>
+        
+    </div>
+	
+	
+
+
+
+
+<script src="js/jquery-3.2.1.js"></script>
+<script src="js/client.js"></script>
+<script src="js/jquery-weui.min.js"></script>
+<script src="js/fastclick.min.js"></script>
+<script src="js/main.js"></script>
+<script src="js/swiper-4.3.5.min.js"></script>
+<script type="text/javascript">
+    var index = (function() {
+        return {
+            id: main.queryString('id'),
+            init: function() {
+                main.setFontSize()
+                this.bindEvt()
+            },
+            bindEvt: function(){
+                var _this = this;
+                
+                service.ajax('data/blcg.json', null, 
+                    'GET', function (data) {
+                        var obj = data[_this.id] || {};
+                        $('.name').html(obj.name);
+                        var arr = obj.img || [];
+                        for(var i =0;i<arr.length;i++){
+                            var oimg = $('<img src="'+arr[i]+'" class="xq-img" alt="">');
+                            $('.imgs-list').append(oimg);
+                        }
+
+                });
+                
+            },
+        }
+    })()
+
+    $(function() {
+        var onload = index.init.bind(index)
+        onload()
+    })
+</script>
+</body>
+</html>
