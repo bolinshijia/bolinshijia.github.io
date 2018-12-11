@@ -2,16 +2,16 @@
 		"mjkf":{
 			"name":"摩加咖啡(双面金属烤漆）",
 			"img": [
-				"./images/blcg/mjkf/mjkf1.jpg",
-				"./images/blcg/mjkf/mjkf2.jpg",
-				"./images/blcg/mjkf/mjkf3.jpg",
-				"./images/blcg/mjkf/mjkf4.jpg",
-				"./images/blcg/mjkf/mjkf5.jpg",
-				"./images/blcg/mjkf/mjkf6.jpg",
-				"./images/blcg/mjkf/mjkf7.jpg",
-				"./images/blcg/mjkf/mjkf8.jpg",
-				"./images/blcg/mjkf/mjkf9.jpg",
-				"./images/blcg/mjkf/mjkf10.jpg",
+				"./images/blcg/mjkf/mjkf1.JPG",
+				"./images/blcg/mjkf/mjkf2.JPG",
+				"./images/blcg/mjkf/mjkf3.JPG",
+				"./images/blcg/mjkf/mjkf4.JPG",
+				"./images/blcg/mjkf/mjkf5.JPG",
+				"./images/blcg/mjkf/mjkf6.JPG",
+				"./images/blcg/mjkf/mjkf7.JPG",
+				"./images/blcg/mjkf/mjkf8.JPG",
+				"./images/blcg/mjkf/mjkf9.JPG",
+				"./images/blcg/mjkf/mjkf10.JPG",
 				"./images/blcg/mjkf/mjkf11.jpg"
 			],
 			"text":"","value":"mjkf"
@@ -19,14 +19,14 @@
 		"jdgg":{
 			"name":"极地高光（德国进口PVC吸塑膜，雷诺丽特）",
 			"img": [
-				"./images/blcg/jdgg/jdgg1.jpg",
-				"./images/blcg/jdgg/jdgg2.jpg",
-				"./images/blcg/jdgg/jdgg3.jpg",
-				"./images/blcg/jdgg/jdgg4.jpg",
-				"./images/blcg/jdgg/jdgg5.jpg",
-				"./images/blcg/jdgg/jdgg6.jpg",
-				"./images/blcg/jdgg/jdgg7.jpg",
-				"./images/blcg/jdgg/jdgg8.jpg",
+				"./images/blcg/jdgg/jdgg1.JPG",
+				"./images/blcg/jdgg/jdgg2.JPG",
+				"./images/blcg/jdgg/jdgg3.JPG",
+				"./images/blcg/jdgg/jdgg4.JPG",
+				"./images/blcg/jdgg/jdgg5.JPG",
+				"./images/blcg/jdgg/jdgg6.JPG",
+				"./images/blcg/jdgg/jdgg7.JPG",
+				"./images/blcg/jdgg/jdgg8.JPG",
 				"./images/blcg/jdgg/jdgg9.jpg"
 			],
 			"text":"","value":"jdgg"
@@ -34,11 +34,11 @@
 		"lgsb":{
 			"name":"雷根斯堡（美国白栓木，半封闭漆）",
 			"img": [
-				"./images/blcg/lgsb/lgsb1.jpg",
-				"./images/blcg/lgsb/lgsb2.jpg",
-				"./images/blcg/lgsb/lgsb3.jpg",
-				"./images/blcg/lgsb/lgsb4.jpg",
-				"./images/blcg/lgsb/lgsb5.jpg",
+				"./images/blcg/lgsb/lgsb1.JPG",
+				"./images/blcg/lgsb/lgsb2.JPG",
+				"./images/blcg/lgsb/lgsb3.JPG",
+				"./images/blcg/lgsb/lgsb4.JPG",
+				"./images/blcg/lgsb/lgsb5.JPG",
 				"./images/blcg/lgsb/lgsb6.jpg",
 				"./images/blcg/lgsb/lgsb7.jpg"
 			],
@@ -72,12 +72,12 @@
 		"wdnc":{
 			"name":"雾都奶茶（韩国进口PVC吸塑膜，表面做旧，LG）",
 			"img": [
-				"./images/blcg/wdnc/wdnc1.jpg",
-				"./images/blcg/wdnc/wdnc2.jpg",
-				"./images/blcg/wdnc/wdnc3.jpg",
-				"./images/blcg/wdnc/wdnc4.jpg",
-				"./images/blcg/wdnc/wdnc5.jpg",
-				"./images/blcg/wdnc/wdnc6.jpg",
+				"./images/blcg/wdnc/wdnc1.JPG",
+				"./images/blcg/wdnc/wdnc2.JPG",
+				"./images/blcg/wdnc/wdnc3.JPG",
+				"./images/blcg/wdnc/wdnc4.JPG",
+				"./images/blcg/wdnc/wdnc5.JPG",
+				"./images/blcg/wdnc/wdnc6.JPG",
 				"./images/blcg/wdnc/wdnc7.jpg"
 			],
 			"text":"","value":"wdnc"
@@ -85,23 +85,23 @@
 		"wdlyA":{
 			"name":"维多利亚A（美国红橡，开放漆）",
 			"img": [
-				"./images/blcg/wdlyA/wdlyA1.jpg",
-				"./images/blcg/wdlyA/wdlyA2.jpg",
-				"./images/blcg/wdlyA/wdlyA3.jpg",
-				"./images/blcg/wdlyA/wdlyA4.jpg",
-				"./images/blcg/wdlyA/wdlyA5.jpg",
-				"./images/blcg/wdlyA/wdlyA6.jpg"
+				"./images/blcg/wdlyA/wdlyA1.JPG",
+				"./images/blcg/wdlyA/wdlyA2.JPG",
+				"./images/blcg/wdlyA/wdlyA3.JPG",
+				"./images/blcg/wdlyA/wdlyA4.JPG",
+				"./images/blcg/wdlyA/wdlyA5.JPG",
+				"./images/blcg/wdlyA/wdlyA6.JPG"
 			],
 			"text":"","value":"wdlyA"
 		},
 		"lyby1":{
 			"name":"莱茵碧玉1（双面纯色烤漆）",
 			"img": [
-				"./images/blcg/lyby1/lyby1.jpg",
-				"./images/blcg/lyby1/lyby2.jpg",
-				"./images/blcg/lyby1/lyby3.jpg",
-				"./images/blcg/lyby1/lyby4.jpg",
-				"./images/blcg/lyby1/lyby5.jpg",
+				"./images/blcg/lyby1/lyby1.JPG",
+				"./images/blcg/lyby1/lyby2.JPG",
+				"./images/blcg/lyby1/lyby3.JPG",
+				"./images/blcg/lyby1/lyby4.JPG",
+				"./images/blcg/lyby1/lyby5.JPG",
 				"./images/blcg/lyby1/lyby6.jpg"
 			],
 			"text":"","value":"lyby1"
@@ -109,12 +109,12 @@
 		"mlbj1":{
 			"name":"魅力铂金1（双面金属烤漆）",
 			"img":[
-				"./images/blcg/mlbj1/mlbj1.jpg",
-				"./images/blcg/mlbj1/mlbj2.jpg",
-				"./images/blcg/mlbj1/mlbj3.jpg",
-				"./images/blcg/mlbj1/mlbj4.jpg",
-				"./images/blcg/mlbj1/mlbj5.jpg",
-				"./images/blcg/mlbj1/mlbj6.jpg",
+				"./images/blcg/mlbj1/mlbj1.JPG",
+				"./images/blcg/mlbj1/mlbj2.JPG",
+				"./images/blcg/mlbj1/mlbj3.JPG",
+				"./images/blcg/mlbj1/mlbj4.JPG",
+				"./images/blcg/mlbj1/mlbj5.JPG",
+				"./images/blcg/mlbj1/mlbj6.JPG",
 				"./images/blcg/mlbj1/mlbj7.jpg"
 			],
 			"text":"","value":"mlbj1"
@@ -172,12 +172,12 @@
 				"./images/blcg/zjmy/zjmy2.jpg",
 				"./images/blcg/zjmy/zjmy3.jpg",
 				"./images/blcg/zjmy/zjmy4.jpg",
-				"./images/blcg/zjmy/zjmy5.jpg",
-				"./images/blcg/zjmy/zjmy6.jpg",
-				"./images/blcg/zjmy/zjmy7.jpg",
-				"./images/blcg/zjmy/zjmy8.jpg",
-				"./images/blcg/zjmy/zjmy9.jpg",
-				"./images/blcg/zjmy/zjmy10.jpg"
+				"./images/blcg/zjmy/zjmy5.JPG",
+				"./images/blcg/zjmy/zjmy6.JPG",
+				"./images/blcg/zjmy/zjmy7.JPG",
+				"./images/blcg/zjmy/zjmy8.JPG",
+				"./images/blcg/zjmy/zjmy9.JPG",
+				"./images/blcg/zjmy/zjmy10.JPG"
 			],
 			"text":"5","value":"zjmy"
 		},
@@ -192,11 +192,10 @@
 				"./images/blcg/tskn/tskn6.jpg",
 				"./images/blcg/tskn/tskn7.jpg",
 				"./images/blcg/tskn/tskn8.jpg",
-				"./images/blcg/tskn/tskn9.jpg",
 				"./images/blcg/tskn/tskn10.jpg",
-				"./images/blcg/tskn/tskn11.jpg",
-				"./images/blcg/tskn/tskn12.jpg",
-				"./images/blcg/tskn/tskn13.jpg"
+				"./images/blcg/tskn/tskn11.JPG",
+				"./images/blcg/tskn/tskn12.JPG",
+				"./images/blcg/tskn/tskn13.JPG"
 			],
 			"text":"","value":"tskn"
 		},
@@ -211,7 +210,7 @@
 				"./images/blcg/dfwnsB/dfwnsB6.jpg",
 				"./images/blcg/dfwnsB/dfwnsB7.jpg",
 				"./images/blcg/dfwnsB/dfwnsB8.jpg",
-				"./images/blcg/dfwnsB/dfwnsB9.jpg",
+				"./images/blcg/dfwnsB/dfwnsB9.JPG",
 				"./images/blcg/dfwnsB/dfwnsB10.jpg",
 				"./images/blcg/dfwnsB/dfwnsB11.jpg",
 				"./images/blcg/dfwnsB/dfwnsB12.jpg",
@@ -250,10 +249,10 @@
 				"./images/blcg/bfly/bfly3.jpg",
 				"./images/blcg/bfly/bfly4.jpg",
 				"./images/blcg/bfly/bfly5.jpg",
-				"./images/blcg/bfly/bfly6.jpg",
-				"./images/blcg/bfly/bfly7.jpg",
-				"./images/blcg/bfly/bfly8.jpg",
-				"./images/blcg/bfly/bfly9.jpg"
+				"./images/blcg/bfly/bfly6.JPG",
+				"./images/blcg/bfly/bfly7.JPG",
+				"./images/blcg/bfly/bfly8.JPG",
+				"./images/blcg/bfly/bfly9.JPG"
 			],
 			"text":"","value":"bfly"
 		},
@@ -274,9 +273,9 @@
 				"./images/blcg/lft/lft4.jpg",
 				"./images/blcg/lft/lft5.jpg",
 				"./images/blcg/lft/lft6.jpg",
-				"./images/blcg/lft/lft7.jpg",
-				"./images/blcg/lft/lft8.jpg",
-				"./images/blcg/lft/lft9.jpg",
+				"./images/blcg/lft/lft7.JPG",
+				"./images/blcg/lft/lft8.JPG",
+				"./images/blcg/lft/lft9.JPG",
 				"./images/blcg/lft/lft10.jpg",
 				"./images/blcg/lft/lft11.jpg",
 				"./images/blcg/lft/lft12.jpg",
@@ -318,12 +317,12 @@
 				"./images/blcg/lwdy/lwdy6.jpg",
 				"./images/blcg/lwdy/lwdy7.jpg",
 				"./images/blcg/lwdy/lwdy8.jpg",
-				"./images/blcg/lwdy/lwdy9.jpg",
-				"./images/blcg/lwdy/lwdy10.jpg",
-				"./images/blcg/lwdy/lwdy11.jpg",
-				"./images/blcg/lwdy/lwdy12.jpg",
-				"./images/blcg/lwdy/lwdy13.jpg",
-				"./images/blcg/lwdy/lwdy14.jpg",
+				"./images/blcg/lwdy/lwdy9.JPG",
+				"./images/blcg/lwdy/lwdy10.JPG",
+				"./images/blcg/lwdy/lwdy11.JPG",
+				"./images/blcg/lwdy/lwdy12.JPG",
+				"./images/blcg/lwdy/lwdy13.JPG",
+				"./images/blcg/lwdy/lwdy14.JPG",
 				"./images/blcg/lwdy/lwdy15.jpg",
 				"./images/blcg/lwdy/lwdy16.jpg",
 				"./images/blcg/lwdy/lwdy17.jpg",
@@ -340,12 +339,12 @@
 				"./images/blcg/jfsk/jfsk2.jpg",
 				"./images/blcg/jfsk/jfsk3.jpg",
 				"./images/blcg/jfsk/jfsk4.jpg",
-				"./images/blcg/jfsk/jfsk5.jpg",
-				"./images/blcg/jfsk/jfsk6.jpg",
-				"./images/blcg/jfsk/jfsk7.jpg",
-				"./images/blcg/jfsk/jfsk8.jpg",
-				"./images/blcg/jfsk/jfsk9.jpg",
-				"./images/blcg/jfsk/jfsk10.jpg",
+				"./images/blcg/jfsk/jfsk5.JPG",
+				"./images/blcg/jfsk/jfsk6.JPG",
+				"./images/blcg/jfsk/jfsk7.JPG",
+				"./images/blcg/jfsk/jfsk8.JPG",
+				"./images/blcg/jfsk/jfsk9.JPG",
+				"./images/blcg/jfsk/jfsk10.JPG",
 				"./images/blcg/jfsk/jfsk11.jpg",
 				"./images/blcg/jfsk/jfsk12.jpg",
 				"./images/blcg/jfsk/jfsk13.jpg",
