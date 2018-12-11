@@ -1,28 +1,28 @@
 {
 	"blcg":[
 		{
-			"name":"摩加咖啡(双面金属烤漆）","img":"./images/blcg/mjkf/mjkf1.jpg","text":"","value":"mjkf"
+			"name":"摩加咖啡(双面金属烤漆）","img":"./images/blcg/mjkf/mjkf1.JPG","text":"","value":"mjkf"
 		},
 		{
-			"name":"极地高光（德国进口PVC吸塑膜，雷诺丽特）","img":"./images/blcg/jdgg/jdgg1.jpg","text":"","value":"jdgg"
+			"name":"极地高光（德国进口PVC吸塑膜，雷诺丽特）","img":"./images/blcg/jdgg/jdgg1.JPG","text":"","value":"jdgg"
 		},
 		{
-			"name":"雷根斯堡（美国白栓木，半封闭漆）","img":"./images/blcg/lgsb/lgsb1.jpg","text":"","value":"lgsb"
+			"name":"雷根斯堡（美国白栓木，半封闭漆）","img":"./images/blcg/lgsb/lgsb1.JPG","text":"","value":"lgsb"
 		},
 		{
 			"name":"摩尔庄园（北美黄杨木）","img":"./images/blcg/mezy/mezy1.jpg","text":"","value":"mezy"
 		},
 		{
-			"name":"雾都奶茶（韩国进口PVC吸塑膜，表面做旧，LG）","img":"./images/blcg/wdnc/wdnc1.jpg","text":"","value":"wdnc"
+			"name":"雾都奶茶（韩国进口PVC吸塑膜，表面做旧，LG）","img":"./images/blcg/wdnc/wdnc1.JPG","text":"","value":"wdnc"
 		},
 		{
-			"name":"维多利亚A（美国红橡，开放漆）","img":"./images/blcg/wdlyA/wdlyA1.jpg","text":"","value":"wdlyA"
+			"name":"维多利亚A（美国红橡，开放漆）","img":"./images/blcg/wdlyA/wdlyA1.JPG","text":"","value":"wdlyA"
 		},
 		{
-			"name":"莱茵碧玉1（双面纯色烤漆）","img":"./images/blcg/lyby1/lyby1.jpg","text":"","value":"lyby1"
+			"name":"莱茵碧玉1（双面纯色烤漆）","img":"./images/blcg/lyby1/lyby1.JPG","text":"","value":"lyby1"
 		},
 		{
-			"name":"魅力铂金1（双面金属烤漆）","img":"./images/blcg/mlbj1/mlbj1.jpg","text":"","value":"mlbj1"
+			"name":"魅力铂金1（双面金属烤漆）","img":"./images/blcg/mlbj1/mlbj1.JPG","text":"","value":"mlbj1"
 		},
 		{
 			"name":"魅力铂金2（双面金属烤漆）","img":"./images/blcg/mlbj2/mlbj1.jpg","text":"","value":"mlbj2"
@@ -61,7 +61,7 @@
 			"name":"莱茵碧玉2（双面纯色烤漆）","img":"./images/blcg/lyby2/lyby1.jpg","text":"","value":"lyby2"
 		},
 		{
-			"name":"米兰风情（双面哑光烤漆+樱桃实木条）","img":"./images/blcg/mlfq/mlfq1.jpg","text":"","value":"mlfq"
+			"name":"米兰风情（双面哑光烤漆+樱桃实木条）","img":"./images/blcg/mlfq/mlfq1.JPG","text":"","value":"mlfq"
 		},
 		{
 			"name":"罗维谛亚（双饰面拼框门）","img":"./images/blcg/lwdy/lwdy1.jpg","text":"","value":"lwdy"
