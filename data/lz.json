@@ -95,6 +95,34 @@
 					{"name":"电热保温区的数量","value":"0"}
 				]
 			},
+			"ER74F256MP":{
+				"name": "西门子嵌入式燃气灶",
+				"id": "ER74F256MP",
+				"type": "嵌入式燃气灶",
+				"img": [
+					"./images/xmzdq/lz/ER74F256MP_1.jpg",
+					"./images/xmzdq/lz/ER74F256MP_2.jpg",
+					"./images/xmzdq/lz/ER74F256MP_3.jpg",
+					"./images/xmzdq/lz/ER74F256MP_4.jpg"
+				],
+				"text":"",
+				"value":"lz",
+				"price": "2390",
+				"basicInfo":[
+					{"name":"品牌","value":"西门子"},
+					{"name":"产品型号","value":"ER74F256MP"},
+					{"name":"产品类别","value":"灶具"},
+					{"name":"产品宽度","value":"78"},
+					{"name":"灶具类型","value":"燃气"}
+				],
+				"installInfo": [
+					{"name":"外形尺寸（长×宽×高mm）","value":"450 X 780 X 80 毫米"},
+					{"name":"净重 (公斤)","value":"13 公斤"},
+					{"name":"灶具颜色","value":"不锈钢"},
+					{"name":"表面颜色","value":"不锈钢"},
+					{"name":"安装类型","value":"嵌入式"}
+				]
+			},
 			"ER74F236MX":{
 				"name": "iQ300 西门子嵌入式燃气灶",
 				"id": "ER74F236MX",
