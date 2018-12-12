@@ -769,6 +769,30 @@
 					{"name":"宽度","value":"600 毫米"}
 				],
 				"installInfo": null
+			},
+			"KM40FSG0TI":{
+				"name": "西门子(SIEMENS) 混冷无霜多门冰箱",
+				"id": "KM40FSG0TI",
+				"type": "冰箱",
+				"img": [
+					"./images/xmzdq/bx/KM40FSG0TI_1.jpg",
+					"./images/xmzdq/bx/KM40FSG0TI_2.jpg",
+					"./images/xmzdq/bx/KM40FSG0TI_3.jpg"
+				],
+				"text":"",
+				"value":"bx",
+				"price": "18999",
+				"basicInfo":[
+					{"name":"品牌","value":"西门子"},
+					{"name":"产品型号","value":"KM40FSG0TI"},
+					{"name":"产品类型","value":"多门"},
+					{"name":"中国能效标识等级","value":"2"},
+					{"name":"外形尺寸(宽*深*高）","value":"752×772×1911毫米"},
+					{"name":"总容积(升)","value":"447 升"},
+					{"name":"冷藏室容积(升)","value":"207 升"},
+					{"name":"冷冻室容积(升)","value":"149 升"}
+				],
+				"installInfo": null
 			}
 		}	
 	}

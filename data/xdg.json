@@ -329,6 +329,27 @@
 					{"name":"额定容积","value":"115 升"}
 				],
 				"installInfo": null
+			},
+			"HS223601W":{
+				"name": "西门子嵌入式消毒柜",
+				"id": "HS223601W",
+				"type": "消毒柜",
+				"img": [
+					"./images/xmzdq/xdg/HS223601W_1.png",
+					"./images/xmzdq/xdg/HS223601W_2.png",
+					"./images/xmzdq/xdg/HS223601W_3.png"
+				],
+				"text":"",
+				"value":"xdg",
+				"price": "2490",
+				"basicInfo":[
+					{"产地":"中国"},
+					{"安装方式":"嵌入式"},
+					{"容量":"90L"},
+					{"烘干方式":"光波高温"},
+					{"颜色":"黑色玻璃"}
+				],
+				"installInfo": null
 			}
 		}
 		

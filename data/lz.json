@@ -581,6 +581,54 @@
 					{"name":"电热盘的数量","value":"0"},
 					{"name":"电热保温区的数量","value":"0"}
 				]
+			},
+			"ER33161MP":{
+				"name": "西门子灶具",
+				"id": "ER33161MP",
+				"type": "灶具",
+				"img": [
+					"./images/xmzdq/lz/ER33161MP_1.png",
+					"./images/xmzdq/lz/ER33161MP_2.png"
+				],
+				"text":"",
+				"value":"lz",
+				"price": "2490",
+				"basicInfo":[
+					{"name":"品牌","value":"西门子"},
+					{"name":"产品型号","value":"ER33161MP"},
+					{"name":"表面颜色","value":"黑色"},
+					{"name":"净重","value":"14.0公斤"},
+					{"name":"表面材质","value":"微晶玻璃"},
+					{"name":"适用气源","value":"天然气"}
+				],
+				"installInfo": [
+					{"name":"安装方式","value":"嵌入式"},
+					{"name":"外形尺寸（长*宽*高mm）","value":"450*300*165毫米"},
+					{"name":"开孔尺寸mm","value":"270*400*70毫米"}
+				]
+			},
+			"ER8PM237MP":{
+				"name": "西门子灶具",
+				"id": "ER8PM237MP",
+				"type": "灶具",
+				"img": [
+					"./images/xmzdq/lz/ER8PM237MP_1.png"
+				],
+				"text":"",
+				"value":"lz",
+				"price": "4390",
+				"basicInfo":[
+					{"name":"品牌","value":"西门子"},
+					{"name":"产品型号","value":"ER8PM237MP"},
+					{"name":"中国能效标识","value":"1级"},
+					{"name":"面板材质","value":"黑色钢化玻璃"},
+					{"name":"适用气源","value":"天然气"}
+				],
+				"installInfo": [
+					{"name":"安装方式","value":"嵌入式"},
+					{"name":"整机尺寸(宽x厚)","value":"780x450mm"},
+					{"name":"开孔尺寸(宽x厚)","value":"700*400mm"}
+				]
 			}
 		}
 		
